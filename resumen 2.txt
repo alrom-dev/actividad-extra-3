@@ -1,0 +1,1 @@
+Aquí vimos cómo funcionan las computadoras por dentro usando el sistema binario. Aprendí a realizar conversiones numéricas y entendí que toda la información digital (imágenes, texto, programas) se reduce a ceros y unos. Fue interesante ver la matemática detrás de la informática.

@@ -1,0 +1,1 @@
+En esta unidad aprendí las bases de la lógica de programación. Lo más importante fue entender cómo solucionar problemas paso a paso mediante algoritmos y diagramas de flujo. Me ayudó a comprender que antes de escribir código, es necesario organizar la solución lógica del problema.
